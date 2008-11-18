@@ -1,0 +1,12 @@
+catpdf concatenates pdfs.
+
+requires gs (ghostscript) to be in your path.
+
+USAGE:
+
+catpdf pdf1.pdf pdf2.pdf > output.pdf
+
+INSTALLATION:
+
+cp catpdf.rb /usr/local/bin/catpdf
+
